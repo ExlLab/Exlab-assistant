@@ -1,6 +1,6 @@
 # Exlab-assistant
 
-1/ Config in assistant_config.json file
+#1/ Config in assistant_config.json file
 
 ```model:``` Liệt kê tên các files "model.pmdl" đã train đặt trong thư mục 'assistant'
 
@@ -48,7 +48,7 @@ thời tiết hôm nay, hôm nay thời tiết, thời tiết thế nào, dự b
 tiếng con/ tiếng kêu/ tiếng chim + (tên con vật: trâu, bò, lợn, gà, vịt, heo, ngỗng, chó, mèo, chim họa mi)
 (bất kỳ nội dung gì) + là gì/ là ai?
 
-# smart home #
+smart home
 bật, mở, tắt, chỉnh, đặt + (tên thiết bị hiển thị trên home assistant)
 
 
