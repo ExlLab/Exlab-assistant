@@ -1,8 +1,8 @@
 # Exlab-assistant
 
-1. Config in assistant_config.json file
+1/ Config in assistant_config.json file
 
-model: Liệt kê tên các files "model.pmdl" đã train đặt trong thư mục 'assistant'
+```model:``` Liệt kê tên các files "model.pmdl" đã train đặt trong thư mục 'assistant'
 
 url_hass: Địa chỉ LAN của Raspberry Pi. Nếu có SSL thì dùng 'https', không có SSL thì dùng 'http'
 Ví dụ:
