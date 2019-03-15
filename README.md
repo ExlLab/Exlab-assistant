@@ -1,6 +1,6 @@
 # Exlab-assistant
 
-# 1/ Config in assistant_config.json file
+# 1 Config in assistant_config.json file
 
 ```model:``` Liệt kê tên các files ```model.pmdl``` đã train từ https://snowboy.kitt.ai/ được đặt trong thư mục ```assistant```
 
