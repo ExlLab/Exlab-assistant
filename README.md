@@ -22,6 +22,7 @@ media_player:
     name: Room player
 ```
 ```weather```: cài đặt ```place_id``` theo trong file ```places_weather.txt```
+
 ```entities_id:``` Liệt kê các ```entity_id``` của Home Assistant muốn điều khiển bởi trợ lý ảo.
 Hỗ trợ các domain: ```light, switch, group, input_boolean, script, input_number, input_select```
 
