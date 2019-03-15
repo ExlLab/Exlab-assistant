@@ -98,7 +98,7 @@ Ví dụ:
 
 ```'wake word', tắt đèn bếp```
 
-```Chỉnh/ đặt + (tên đối tượng input_numer, input_select trên Home assistant cần điều chỉnh giá trị) + giá trị cần điều chinhr```. 
+```Chỉnh/ đặt + (tên đối tượng input_numer, input_select trên Home assistant cần điều chỉnh giá trị) + giá trị cần điều chỉnh```. 
 
 Ví dụ:
 
