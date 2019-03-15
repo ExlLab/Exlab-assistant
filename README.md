@@ -30,7 +30,7 @@ Hỗ trợ các domain: ```light, switch, group, input_boolean, script, input_nu
 ```scenes:``` Liệt kê các ```script``` muốn thực hiện theo câu lệnh đặc biệt (tính năng routine).
 
 # 2. Cấu trúc các câu lệnh: 
-Cấu trú: ```'wake word' (=> trợ lý ảo bắt đầu chờ lệnh), + 'nội dung câu lệnh'``` (như mô tả phía dưới).
+Cấu trúc: ```'wake word' (=> trợ lý ảo bắt đầu chờ lệnh), + 'nội dung câu lệnh'``` (như mô tả phía dưới).
 * Media player:
 
 *- Mở nhạc, radio, đọc truyện:*
