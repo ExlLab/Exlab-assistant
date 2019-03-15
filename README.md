@@ -11,11 +11,11 @@ Ví dụ:
 ```
 ```token_hass:``` là 'Long-Lived Access Tokens' của Home assistant đã tạo.
 
-```api_text2speech:``` các thông số của api_fpt text to speech. 
+```api_text2speech:``` các thông số của api_fpt text to speech.
 Tham khảo bài này để đăng ký: https://sites.google.com/site/exlabvn/thu-vien-lap-trinh/chu-de-home-assistant/doc-van-ban-tieng-viet-voi-openfpt-api
 
 ```media_player_id:``` là entity_id của media_player trong Home assitant dùng để phát nhạc, radio, đọc truyện.
-Dùng component 'vlc' theo hướng dẫn: https://www.home-assistant.io/components/media_player.vlc/
+Dùng component ```'vlc``` theo hướng dẫn: https://www.home-assistant.io/components/media_player.vlc/
 ```
 media_player:
   - platform: vlc
@@ -27,7 +27,8 @@ Hỗ trợ các domain: light, switch, group, input_boolean, script, input_numbe
 
 scenes: Liệt kê các script muốn thực hiện theo câu lệnh đặc biệt (tính năng routine).
 
-# 2. Cấu trúc các câu lệnh: 'wake word' (=> trợ lý ảo bắt đầu chờ lệnh), + 'nội dung câu lệnh' (như mô tả phía dưới).
+# 2. Cấu trúc các câu lệnh: 
+Cấu trú: ```'wake word' (=> trợ lý ảo bắt đầu chờ lệnh), + 'nội dung câu lệnh'``` (như mô tả phía dưới).
 * Media player:
 *- Mở nhạc, radio, đọc truyện:*
 ```Mở bài hát + (tên bài hát tiếng Việt, Anh tùy ý)```
