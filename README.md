@@ -15,7 +15,7 @@ Ví dụ:
 Tham khảo bài này để đăng ký: https://sites.google.com/site/exlabvn/thu-vien-lap-trinh/chu-de-home-assistant/doc-van-ban-tieng-viet-voi-openfpt-api
 
 ```media_player_id:``` là entity_id của media_player trong Home assitant dùng để phát nhạc, radio, đọc truyện.
-Dùng component ```'vlc``` theo hướng dẫn: https://www.home-assistant.io/components/media_player.vlc/
+Dùng component ```vlc``` theo hướng dẫn: https://www.home-assistant.io/components/media_player.vlc/
 ```
 media_player:
   - platform: vlc
