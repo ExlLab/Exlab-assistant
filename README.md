@@ -4,12 +4,12 @@
 
 ```model:``` Liệt kê tên các files ```model.pmdl``` đã train từ https://snowboy.kitt.ai/ được đặt trong thư mục ```assistant```
 
-```url_hass:``` Địa chỉ LAN của Raspberry Pi. Nếu có SSL thì dùng 'https', không có SSL thì dùng 'http'
+```url_hass:``` Địa chỉ LAN của Raspberry Pi. Nếu có SSL thì dùng ```https```, không có SSL thì dùng ```http```.
 Ví dụ:
 ```
 "url_hass": "https://192.168.1.100:8123"
 ```
-```token_hass:``` là 'Long-Lived Access Tokens' của Home assistant đã tạo.
+```token_hass:``` là ```Long-Lived Access Tokens``` của Home assistant đã tạo.
 
 ```api_text2speech:``` các thông số của api_fpt text to speech.
 Tham khảo bài này để đăng ký: https://sites.google.com/site/exlabvn/thu-vien-lap-trinh/chu-de-home-assistant/doc-van-ban-tieng-viet-voi-openfpt-api
@@ -25,7 +25,7 @@ media_player:
 
 ```entities_id:``` Liệt kê các ```entity_id``` của Home Assistant muốn điều khiển bởi trợ lý ảo.
 
-Hỗ trợ các domain: ```light, switch, group, input_boolean, script, input_number, input_select```
+Hỗ trợ các domain: ```light, switch, group, input_boolean, script, input_number, input_select, fan```
 
 ```scenes:``` Liệt kê các ```script``` muốn thực hiện theo câu lệnh đặc biệt (tính năng routine).
 
