@@ -106,6 +106,8 @@ Ví dụ:
 
 ```'wake word', đặt chế độ điều hòa tự động/ làm mát```
 
+```Trạng thái + (tên thiết bị hiển thị trên Home Assistant)```. Ví dụ: 
+```'wake word', trạng thái đèn phòng ngủ là gì```
 
 
 
