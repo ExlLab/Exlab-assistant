@@ -92,13 +92,13 @@ Ví dụ:
 
 * Smart home:
 
-```Bật/ mở/ tắt + (tên thiết bị hiển thị trên Home Assistant)```. Ví dụ: 
++ ```Bật/ mở/ tắt + (tên thiết bị hiển thị trên Home Assistant)```. Ví dụ: 
 
 ```'wake word', bật đèn phòng khách và điều hòa```
 
 ```'wake word', tắt đèn bếp```
 
-```Chỉnh/ đặt + (tên đối tượng input_numer, input_select trên Home assistant cần điều chỉnh giá trị) + giá trị cần điều chỉnh```. 
++ ```Chỉnh/ đặt + (tên đối tượng input_numer, input_select trên Home assistant cần điều chỉnh giá trị) + giá trị cần điều chỉnh```. 
 
 Ví dụ:
 
@@ -106,7 +106,8 @@ Ví dụ:
 
 ```'wake word', đặt chế độ điều hòa tự động/ làm mát```
 
-```Trạng thái + (tên thiết bị hiển thị trên Home Assistant)```. Ví dụ: 
++ ```Trạng thái + (tên thiết bị hiển thị trên Home Assistant)```.
+Ví dụ: 
 ```'wake word', trạng thái đèn phòng ngủ là gì```
 
 
